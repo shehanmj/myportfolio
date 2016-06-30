@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "My portfolio",
+  "main": "app.js",
+  "scripts": {
+ "build-css": "./bin/build-css",
+ "watch-css": "./bin/watch-css"
+},
+  "author": "Michael Jason Shehan",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^3.8.0",
+    "nodemon": "^1.9.2"
+  }
+}
